@@ -11,7 +11,7 @@ class Shoe
       return true
     else
       return false
-    end 
+    end
   end
 
   def cobble
